@@ -1,4 +1,4 @@
-# PokedexAPI
+# pokedexAPI 
 
 Uma API usando o famoso e popular anime Pokemon
 
